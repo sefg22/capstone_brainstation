@@ -2,7 +2,8 @@
 
 ## Project Overview: 
 
-An area of interest for me is hospitality, specifically: Restaurants. A challenge a restaurant could face is the cost of waste associated with their menu items. How can we reduce waste based on historical data of the restaurant to increase or maximize profits? My project intends to address the number of slices the restaurant should produce based on various factors that might impact the sales for each day. By using machine learning, especially time series models, restaurant owners can benefit from predicting their production values for everything on their menu and driving down the cost of unconsumed items. 
+A challenge a local Miami restaurant faces is the cost of waste associated with their menu items. There are a variety of factors that might influence the performance of a restaurant daily. With that said, the main question becomes: how can we reduce waste based on historical data of the restaurant to increase or maximize profits? My project intends to address the number of slices the restaurant should produce to minimize waste. This includes exploring the relationships between the number of slices sold and other factors that the owners believe could impact the demand at certain points throughout the year. Using machine learning models, particularly time series models, restaurant owners can predict customer demand based on historical data. 
+
 
 
 ## Data Dictionary
@@ -16,8 +17,14 @@ An area of interest for me is hospitality, specifically: Restaurants. A challeng
 | **Waste (Qty)**    | Total slices wasted                                | `int64`       |                                |
 | **Temperature (Avg.)** | Average temperature of the day                 | `float64`     |                                |
 | **Revenue/ Profit**| Total Profit of slices                             | `int64`       |                                |
-| **Flavor**         | Flavors of the slices                              | `object`      |                                |
+| **Pepperoni**         | Binary column to indicate flavor                | `int64`      | OneHot encoded feature created from Flavor column|
+| **Cheese**         | Binary column to indicate flavor                   | `int64`      | OneHot encoded feature created from Flavor column|
+| **Napolitana**         | FBinary column to indicate flavor              | `int64`      | OneHot encoded feature created from Flavor column|
+| **Primavera**         | Binary column to indicate flavor                | `int64`      | OneHot encoded feature created from Flavor column|
+| **Vegetariana**         | Binary column to indicate flavor              | `int64`      | OneHot encoded feature created from Flavor column|
+| **Season**         | Time of year for restaurants                             | `int64`      | Ordinally encoded due to order of season (ex: High season, etc.)|
 | **Rain?**          | Binary column showing whether it rained or not that day | `int64`   |                                |
+
 
 ### Organization
 
