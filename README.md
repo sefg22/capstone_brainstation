@@ -31,17 +31,16 @@ A challenge a local Miami restaurant faces is the cost of waste associated with 
 #### Repository 
 
 * `data` 
-    - contains link to copy of the dataset (stored in a publicly accessible cloud storage)
-    - saved copy of aggregated / processed data as long as those are not too large (> 10 MB)
+    - contains link to copy of the dataset 
 
 * `model`
     - `joblib` dump of final model(s)
 
 * `notebooks`
-    - contains all final notebooks involved in the project
+    - contains jupyter notebooks used for the project
 
 * `docs`
-    - contains final report, presentations which summarize the project
+    -  presentations associated to the project
 
 * `references`
     - contains papers / tutorials used in the project
@@ -60,8 +59,6 @@ A challenge a local Miami restaurant faces is the cost of waste associated with 
 
 #### Dataset
 
-... Google Drive links to datasets and pickled models
+https://docs.google.com/spreadsheets/d/1j2NBFPLa7XLYg_B2TPCAy_oTp6ze0eRUaGnZPPVHeOQ/edit?usp=sharing
 
 ### Credits & References
-
-... Include any personal learning
