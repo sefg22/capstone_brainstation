@@ -25,40 +25,6 @@ A challenge a local Miami restaurant faces is the cost of waste associated with 
 | **Season**         | Time of year for restaurants                             | `int64`      | Ordinally encoded due to order of season (ex: High season, etc.)|
 | **Rain?**          | Binary column showing whether it rained or not that day | `int64`   |                                |
 
-
-### Organization
-
-#### Repository 
-
-* `data` 
-    - contains link to copy of the dataset 
-
-* `model`
-    - `joblib` dump of final model(s)
-
-* `notebooks`
-    - contains jupyter notebooks used for the project
-
-* `docs`
-    -  presentations associated to the project
-
-* `references`
-    - contains papers / tutorials used in the project
-
-* `src`
-    - Contains the project source code (refactored from the notebooks)
-
-* `capstone.yml`
-    - Conda environment specification
-
-* `README.md`
-    - Project landing page (this page)
-
-* `LICENSE`
-    - Project license
-
 #### Dataset
 
 https://docs.google.com/spreadsheets/d/1j2NBFPLa7XLYg_B2TPCAy_oTp6ze0eRUaGnZPPVHeOQ/edit?usp=sharing
-
-### Credits & References
