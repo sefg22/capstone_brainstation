@@ -63,7 +63,7 @@ Below you can see a visual representation of our best model:
 - Productionizing the best-performing model into a dynamic dashboard for the owners of the pizza place.
 - Evaluating model performance continuously.
 - Improve the model as needed including more layers, changing the parameters, etc.
-- Investigate other features that might affect demand (i.e. using rainfall amount instead of whether it rained or not. 
+- Investigate other features that might affect demand (i.e. using rainfall amount instead of whether it rained or not.)
 
 
 
