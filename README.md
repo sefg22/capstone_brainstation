@@ -53,7 +53,9 @@ Takeaways:
 The first model showed an acceptable understanding of customer demand at the second and third fold but struggled with the first fold. Looping through different combinations might allow for the model to perform better in this regard. When it comes to our Auto Arima model, this model performed the worst and only showed an acceptable understanding of customer demand in the second fold which is something all of our models share. In terms of the Prophet model, it performed better than the aforementioned models but also struggled to capture customer demand on the first fold. Like our baseline model, attempting different combinations might also improve the model's performance within the first fold and also overall. Now, our last model, the LSTM neural network showed a consistent MAE across all folds which makes it our best model despite only outperforming other models in the first fold.
 
 Below you can see a visual representation of our best model: 
-<img width="522" alt="image" src="https://github.com/user-attachments/assets/1e235904-3467-44a2-a68f-7344dff049f9">
+
+<img width="522" alt="image" src="https://github.com/user-attachments/assets/45d2b31a-5dad-49a1-a991-5a306e350c6f">
+
 
 ## Next Steps
 
