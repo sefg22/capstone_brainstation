@@ -54,8 +54,7 @@ The first model showed an acceptable understanding of customer demand at the sec
 
 Below you can see a visual representation of our best model: 
 
-<img width="522" alt="image" src="https://github.com/user-attachments/assets/45d2b31a-5dad-49a1-a991-5a306e350c6f">
-
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/c9e0008e-5f69-4762-a114-517965fe6fb0">
 
 ## Next Steps
 
