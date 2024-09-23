@@ -26,7 +26,7 @@ A challenge a local Miami restaurant faces is the cost of waste associated with 
 **Link:** https://docs.google.com/spreadsheets/d/1j2NBFPLa7XLYg_B2TPCAy_oTp6ze0eRUaGnZPPVHeOQ/edit?usp=sharing
 
 ## Key Insights 
-<img width="886" alt="image" src="https://github.com/user-attachments/assets/a6465195-8105-43ae-a169-7a654d025fbe">
+<img width="522" alt="image" src="https://github.com/user-attachments/assets/bf118744-9063-4ab7-b04b-b6ef5665b564">
 
  Takeaways: 
  - There is a strong positive correlation when lag is 1, which indicates that a past value might influence the next value heavily. 
