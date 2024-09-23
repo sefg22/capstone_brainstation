@@ -7,7 +7,8 @@ A challenge a local Miami restaurant faces is the cost of waste associated with 
 
 
 ## Data Dictionary
-
+#### Dataset
+https://docs.google.com/spreadsheets/d/1j2NBFPLa7XLYg_B2TPCAy_oTp6ze0eRUaGnZPPVHeOQ/edit?usp=sharing
 | Column Name        | Description                                        | Data Type     | Notes                          |
 |--------------------|----------------------------------------------------|---------------|--------------------------------|
 | **Date**           | Date associated to each column                     | `datetime64`  | Datetime Index                 |
@@ -25,6 +26,7 @@ A challenge a local Miami restaurant faces is the cost of waste associated with 
 | **Season**         | Time of year for restaurants                             | `int64`      | Ordinally encoded due to order of season (ex: High season, etc.)|
 | **Rain?**          | Binary column showing whether it rained or not that day | `int64`   |                                |
 
-#### Dataset
+## Key Insights 
+<img width="522" alt="image" src="https://github.com/user-attachments/assets/88b8cb86-02bf-44a5-9ff3-8235aba3becc">
 
-https://docs.google.com/spreadsheets/d/1j2NBFPLa7XLYg_B2TPCAy_oTp6ze0eRUaGnZPPVHeOQ/edit?usp=sharing
+
